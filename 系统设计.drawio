@@ -1,71 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T18:41:57.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36" etag="iP5CFgHXgKjkNXt2a2e-" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T08:26:32.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36" etag="6yYbVmkU4J8-Mc1B7E4V" version="24.2.2" type="github">
   <diagram name="第 1 页" id="ARZ3vlUCNHAsFOynymSC">
-    <mxGraphModel dx="1221" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-3" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;fontSize=23;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="1" source="XWZAoHDn9rQYO0KGU2QB-1" target="XWZAoHDn9rQYO0KGU2QB-2" edge="1">
+        <mxCell id="pDKQwForPUbPkwStvEQX-51" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;fontSize=23;endArrow=none;endFill=0;startArrow=none;startFill=0;" edge="1" parent="1" source="pDKQwForPUbPkwStvEQX-54" target="pDKQwForPUbPkwStvEQX-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-1" value="游戏" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="110" width="230" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-14" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;elbow=vertical;" parent="1" source="XWZAoHDn9rQYO0KGU2QB-2" target="XWZAoHDn9rQYO0KGU2QB-13" edge="1">
+        <mxCell id="pDKQwForPUbPkwStvEQX-52" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;elbow=vertical;endArrow=none;endFill=0;" edge="1" parent="1" source="pDKQwForPUbPkwStvEQX-54" target="pDKQwForPUbPkwStvEQX-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-2" value="摄像机模块" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;fontSize=23;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="240" width="70" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;endArrow=none;endFill=0;startArrow=none;startFill=0;elbow=vertical;" parent="1" source="XWZAoHDn9rQYO0KGU2QB-7" target="XWZAoHDn9rQYO0KGU2QB-1" edge="1">
+        <mxCell id="pDKQwForPUbPkwStvEQX-53" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;endArrow=none;endFill=0;" edge="1" parent="1" source="pDKQwForPUbPkwStvEQX-54" target="pDKQwForPUbPkwStvEQX-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-16" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;elbow=vertical;" parent="1" source="XWZAoHDn9rQYO0KGU2QB-7" target="XWZAoHDn9rQYO0KGU2QB-15" edge="1">
+        <mxCell id="pDKQwForPUbPkwStvEQX-54" value="游戏" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pDKQwForPUbPkwStvEQX-55" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;elbow=vertical;" edge="1" parent="1" source="pDKQwForPUbPkwStvEQX-56" target="pDKQwForPUbPkwStvEQX-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="XWZAoHDn9rQYO0KGU2QB-7" target="XWZAoHDn9rQYO0KGU2QB-21" edge="1">
+        <mxCell id="pDKQwForPUbPkwStvEQX-56" value="摄像机模块" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;fontSize=23;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pDKQwForPUbPkwStvEQX-57" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;endArrow=none;endFill=0;startArrow=none;startFill=0;elbow=vertical;" edge="1" parent="1" source="pDKQwForPUbPkwStvEQX-60" target="pDKQwForPUbPkwStvEQX-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-7" value="玩家模块" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="272" y="240" width="70" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-11" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=23;endArrow=none;endFill=0;startArrow=none;startFill=0;elbow=vertical;" parent="1" source="XWZAoHDn9rQYO0KGU2QB-9" target="XWZAoHDn9rQYO0KGU2QB-1" edge="1">
+        <mxCell id="pDKQwForPUbPkwStvEQX-58" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;elbow=vertical;" edge="1" parent="1" source="pDKQwForPUbPkwStvEQX-60" target="pDKQwForPUbPkwStvEQX-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="XWZAoHDn9rQYO0KGU2QB-9" target="XWZAoHDn9rQYO0KGU2QB-29" edge="1">
+        <mxCell id="pDKQwForPUbPkwStvEQX-59" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1" source="pDKQwForPUbPkwStvEQX-60" target="pDKQwForPUbPkwStvEQX-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-9" value="AI模块" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="240" width="70" height="190" as="geometry" />
+        <mxCell id="pDKQwForPUbPkwStvEQX-60" value="角色模块" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="70" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-12" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=23;endArrow=none;endFill=0;startArrow=none;startFill=0;elbow=vertical;" parent="1" source="XWZAoHDn9rQYO0KGU2QB-10" target="XWZAoHDn9rQYO0KGU2QB-1" edge="1">
+        <mxCell id="pDKQwForPUbPkwStvEQX-61" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=23;endArrow=none;endFill=0;startArrow=none;startFill=0;elbow=vertical;" edge="1" parent="1" source="pDKQwForPUbPkwStvEQX-63" target="pDKQwForPUbPkwStvEQX-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-20" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;elbow=vertical;" parent="1" source="XWZAoHDn9rQYO0KGU2QB-10" target="XWZAoHDn9rQYO0KGU2QB-19" edge="1">
+        <mxCell id="pDKQwForPUbPkwStvEQX-62" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1" source="pDKQwForPUbPkwStvEQX-63" target="pDKQwForPUbPkwStvEQX-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-10" value="营地模块" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="240" width="70" height="190" as="geometry" />
+        <mxCell id="pDKQwForPUbPkwStvEQX-63" value="AI模块" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;flipH=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="70" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-13" value="摄像机跟随" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;fontSize=23;flipH=1;flipV=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="510" width="70" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-15" value="角色移动" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;flipH=1;flipV=0;" parent="1" vertex="1">
-          <mxGeometry x="218" y="510" width="70" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-19" value="营地模块" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;flipH=1;flipV=0;" parent="1" vertex="1">
-          <mxGeometry x="650" y="510" width="70" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-21" value="角色状态机" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;flipH=1;flipV=0;" parent="1" vertex="1">
-          <mxGeometry x="326" y="510" width="70" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="XWZAoHDn9rQYO0KGU2QB-26" target="XWZAoHDn9rQYO0KGU2QB-9" edge="1">
+        <mxCell id="pDKQwForPUbPkwStvEQX-64" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=23;endArrow=none;endFill=0;startArrow=none;startFill=0;elbow=vertical;" edge="1" parent="1" source="pDKQwForPUbPkwStvEQX-66" target="pDKQwForPUbPkwStvEQX-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-26" value="AI决策" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;flipH=1;flipV=0;" parent="1" vertex="1">
-          <mxGeometry x="542" y="510" width="70" height="190" as="geometry" />
+        <mxCell id="pDKQwForPUbPkwStvEQX-65" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;endArrow=none;endFill=0;" edge="1" parent="1" source="pDKQwForPUbPkwStvEQX-66" target="pDKQwForPUbPkwStvEQX-76">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWZAoHDn9rQYO0KGU2QB-29" value="AI行为" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;flipH=1;flipV=0;" parent="1" vertex="1">
-          <mxGeometry x="434" y="510" width="70" height="190" as="geometry" />
+        <mxCell id="pDKQwForPUbPkwStvEQX-66" value="UI模块" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;flipH=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="639" y="210" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pDKQwForPUbPkwStvEQX-67" value="摄像机跟随" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;fontSize=23;flipH=1;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="450" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pDKQwForPUbPkwStvEQX-68" value="角色移动" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;flipH=1;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="216" y="450" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pDKQwForPUbPkwStvEQX-69" value="角色属性" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;flipH=1;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="321" y="450" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pDKQwForPUbPkwStvEQX-70" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1" source="pDKQwForPUbPkwStvEQX-71" target="pDKQwForPUbPkwStvEQX-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pDKQwForPUbPkwStvEQX-71" value="AI决策" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="533" y="450" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pDKQwForPUbPkwStvEQX-72" value="AI行为" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="427" y="450" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pDKQwForPUbPkwStvEQX-73" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;endArrow=none;endFill=0;" edge="1" parent="1" source="pDKQwForPUbPkwStvEQX-75" target="pDKQwForPUbPkwStvEQX-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pDKQwForPUbPkwStvEQX-74" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;endArrow=none;endFill=0;" edge="1" parent="1" source="pDKQwForPUbPkwStvEQX-75" target="pDKQwForPUbPkwStvEQX-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pDKQwForPUbPkwStvEQX-75" value="声音模块" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="797" y="210" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pDKQwForPUbPkwStvEQX-76" value="玩家血量" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="639" y="450" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pDKQwForPUbPkwStvEQX-77" value="背景音乐" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="744" y="450" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pDKQwForPUbPkwStvEQX-78" value="音效" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="450" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pDKQwForPUbPkwStvEQX-79" value="背包模块" style="whiteSpace=wrap;html=1;rounded=0;fontSize=23;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="210" width="70" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
